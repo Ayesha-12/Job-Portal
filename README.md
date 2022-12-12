@@ -1,1 +1,2 @@
-# Job-Portal_1
+# Job-Portal
+It is a online job portal platform
